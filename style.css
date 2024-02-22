@@ -124,6 +124,7 @@ button{
 .text{
     font-size: 18px;
     color: inherit;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .quote-cont{
     flex: 4;
@@ -177,5 +178,5 @@ button{
     border-radius: 10px;
 }
 .footer{
-
+    padding: 10px;
 }
